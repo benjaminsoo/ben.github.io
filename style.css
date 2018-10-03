@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+
+body {
+    background-image: url("flat.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    font-family: Righteous;
+}
+#content {
+    border: black 3px;
+    margin-top:16px;
+    width: 72%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgba(255,255,255,0.2);
+}
+table {
+    margin: auto;
+}
+#content ul, #content ol {
+    margin: auto;
+    width: 20%;
+}
+#nav {
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color:transparent;
+}
+#nav li {
+    float: left;
+}
+#nav li a{
+    color: #07b7f2;
+    text-decoration: none;
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+    font-size: 22px;
+      text-shadow: 2px 3px 1px black;
+}
+#nav li a:hover{
+    color: #42f48f;
+}
+hr {
+    border-color: black;
+}
+#white {
+    color: white;
+    text-shadow: 2px 3px 1px black;
+}
+#resumecontent {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 20px;
+    width: 65%;
+}
+#resumefont {
+    font-size: 20px;
+    color: #00ffa1;
+    text-shadow: 2px 3px 1px black;
+}
+#resumefontsmall {
+    font-size: 16px;
+    color: #00ffa1;
+    text-shadow: 2px 3px 1px black;
+}
+#shadow {
+    text-shadow: 2px 3px 1px black;
+    color: #ee02ff;
+}
+#header {
+    text-shadow: 2px 3px 1px black;
+    color: #ffbb00;
+    font-size: 25px
+}
+#headertwo {
+    text-shadow: 2px 3px 1px black;
+    color: white;
+}
+#resumelist {
+    color: #07b7f2;
+    text-decoration: none;
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+    font-size: 22px;
+    text-shadow: 2px 3px 1px black;
+    width: 60%;
+    margin:auto;
+}
+#homepagecenter {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 20px;
+    width: 65%;
+}
+#fonttwo {
+    font-size: 25px;
+    color: #41f4b2;
+    text-shadow: 2px 3px 1px black;
+}
+#fonttwo:hover{
+    color:rgb(255,255,255);
+}
+#resumefontsmalltwo {
+    font-size: 20px;
+    color: white;
+    text-shadow: 2px 3px 1px black;
+}
+#resumefontsmallthree {
+    font-size: 16px;
+    color: #ffbb00;
+    text-shadow: 2px 3px 1px black;
+}
+#indexheader {
+    text-shadow: 2px 3px 1px black;
+    color: #ffbb00;
+    font-size: 25px
+}
+#indexheader:hover {
+    color: #fff;
+}
+a {
+     text-shadow: 2px 3px 1px black;
+    color: #ffbb00;
+    font-size: 25px
+}
+a:hover {
+    color: white;
+}
