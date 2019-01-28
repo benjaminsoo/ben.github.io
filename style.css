@@ -136,3 +136,8 @@ a {
 a:hover {
     color: white;
 }
+#flowchart{
+    text-shadow: 2px 3px 1px black;
+    color: #ffbb00;
+    font-size: 25px
+}
